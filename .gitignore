@@ -1,5 +1,6 @@
 package-lock.json
 postgres/
+**.spec.ts
 
 # compiled output
 /dist
